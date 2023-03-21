@@ -12,6 +12,8 @@
 ## **프로젝트 기간**
 SSAFY 2학기 공통PJT(2023.01.03 ~ 2023.02.17)
 
+공통 프로젝트 서울 5반 3등(우수상)
+
 <br>
 
 ## **서비스 개요**
@@ -109,4 +111,4 @@ SSAFY 2학기 공통PJT(2023.01.03 ~ 2023.02.17)
 <br>
 
 ## 팀원 소개
-![팀원소개](./docs/images/team_moti.png)
+![팀원소개](https://user-images.githubusercontent.com/109469241/226602846-a35bbe5c-3c5c-419b-b2fe-39c62b001aac.png)
